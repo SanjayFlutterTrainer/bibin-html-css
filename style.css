@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(165, 154, 119);
+}
+
+
+.navbar{
+    display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+.content{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.content img{
+    height: 500px;
+    border-radius: 25px;
+}
+.content h1{
+    font-size: 100px;
+    color: aliceblue;
+}
